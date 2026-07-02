@@ -122,7 +122,9 @@ Content-Type: application/json
 
 <details>
 <summary>Скриншот</summary>
+
 ![alt text](images/image-4.png)
+
 </details>
 
 ### 2. Client --> Server 2
@@ -175,7 +177,9 @@ GET http://localhost:9002/api/transactions</br>
 
 <details>
 <summary>Скриншот</summary>
+
 ![alt text](images/image-5.png)
+
 </details>
 
 ### 3. Server 2 --> Server 3
@@ -226,7 +230,9 @@ GET http://localhost:9003/api/transactions</br>
 
 <details>
 <summary>Скриншот</summary>
+
 ![alt text](images/image-6.png)
+
 </details>
 
 ### 4. Server 3 --> Server 4
@@ -267,7 +273,9 @@ GET http://localhost:9004/api/transactions</br>
 
 <details>
 <summary>Скриншот</summary>
+
 ![alt text](images/image-7.png)
+
 </details>
 
 ### Bывод об архитектуре
