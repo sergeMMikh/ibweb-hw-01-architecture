@@ -61,13 +61,18 @@ server4-x64.bin (либо другой для вашей платформы)
 
 ## Решение
 
+<details>
+<summary>Подготовка стенда</summary>
+
 Проверка файлов перед скачиванием.
 ![VirusTotal](images/image.png)
 
 Запуск серверов и клиента.
 ![servers and client](images/image-3.png)
 
-Вывод запуска клиента:
+</details>
+
+### Вывод запуска клиента:
 ```
 {
   "transactions": [
